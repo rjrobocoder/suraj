@@ -48,6 +48,7 @@ export function ContactForm() {
         throw new Error("Failed to send message");
       }
     } catch (error) {
+      console.error('Form submission error:', error);
       alert("Error sending message. Please try again.");
     }
   }

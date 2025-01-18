@@ -3,7 +3,7 @@ import React from "react";
 import { Badge } from "../ui/badge";
 import { Button } from "../ui/button";
 import { Card } from "../ui/card";
-import { projects, technical_skills } from "@/data/content";
+import { technical_skills } from "@/data/content";
 
 const ProficienciesSection = () => {
   return (

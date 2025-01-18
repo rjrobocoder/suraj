@@ -49,7 +49,7 @@ const AcademicSection = () => {
                   Graduation
                 </h3>
                 <p className="text-lg">
-                  Bachelor's Degree in Mechanical Engineering
+                  Bachelor&apos;s Degree in Mechanical Engineering
                 </p>
                 <p className="text-muted-foreground">
                   Biju Patnaik University of Technology (BPUT)

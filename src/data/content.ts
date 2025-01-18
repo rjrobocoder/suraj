@@ -9,7 +9,7 @@ export const skills = [
     name: "3D Printing",
     level: "Advanced",
     description:
-      "Three years of experience in 3D printing, including major research project during bachelor's degree.",
+      "Three years of experience in 3D printing, including major research project during bachelor&apos;s degree.",
   },
   {
     name: "SolidWorks",

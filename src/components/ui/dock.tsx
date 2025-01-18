@@ -9,7 +9,7 @@ import {
   useSpring,
   useTransform,
 } from "framer-motion";
-import React, { PropsWithChildren, useRef } from "react";
+import React, { useRef } from "react";
 
 import { cn } from "@/lib/utils";
 
